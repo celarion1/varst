@@ -1,0 +1,18 @@
+# Claude 설정
+.claude/
+
+# zip 아카이브
+*.zip
+
+# Excel 리포트 (자동 생성 파일)
+VaR_Report_*.xlsx
+VaR_Report_*.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter 체크포인트
+.ipynb_checkpoints/
